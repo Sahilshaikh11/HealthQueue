@@ -7,6 +7,7 @@ const AppContextProvider = (props) => {
   const backendUrl = import.meta.env.VITE_BACKEND_URL;
 
   const months = [
+    "",
     "Jan",
     "Feb",
     "Mar",
